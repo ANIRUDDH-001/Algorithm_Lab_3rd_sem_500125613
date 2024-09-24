@@ -1,5 +1,4 @@
-# Algorith_Lab_3rd_sem_500125613
-# **_Algorithm Labs_** 📚💻
+# **_Algorithm_Lab_3rd_sem_500125613_** 📚💻
 
 This repository contains implementations of various algorithms completed as part of our lab exercises. Each lab focuses on a different algorithmic concept, including recursive and iterative approaches, divide and conquer, and greedy strategies. Below is a brief description of each lab:
 
